@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Alessandro Benetti, a nuclear engineer from Politecnico di Milano.
-- 👀 I'm interested in artificial intelligence and its various applications (also, I love cooking!)
-- 🌱 I’m currently learning Natural Language Processing and Time-Series Analysis
-- :collision: I’m looking to collaborate on cloud computing or finance projects 
-- 📫 How to reach me:  https://www.linkedin.com/in/alessandro-benetti-86968a1b8/
+- 👀 I'm interested in artificial intelligence and its various applications (also, I love cooking!).
+- 🌱 I’m currently learning Time-Series Analysis and MLOps.
+- 💥 I’m looking to collaborate on cloud computing or finance projects.
+- 📫 How to reach me:  https://www.linkedin.com/in/alessandro-benetti-86968a1b8/.
+- 😶 The repos here are just to show my style of programming, I took part in other project but they are currently private, so I avoided plublishing them 
 
 <!---
 Benetti-Hub/Benetti-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
