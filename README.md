@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Time-Series Analysis and MLOps.
 - 💥 I’m looking to collaborate on cloud computing or finance projects.
 - 📫 How to reach me:  https://www.linkedin.com/in/alessandro-benetti-86968a1b8/.
-- 😶 The repos here are just to show my style of programming, I took part in other projects but they are currently private
 
 <!---
 Benetti-Hub/Benetti-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
