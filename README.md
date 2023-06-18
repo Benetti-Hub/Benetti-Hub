@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Alessandro Benetti, a nuclear engineer from Politecnico di Milano.
-- 👀 I'm interested in artificial intelligence and its various applications (also, I love cooking!).
-- 🌱 I’m currently learning Time-Series Analysis and Reinforcement Learning.
-- 📫 How to reach me:  https://www.linkedin.com/in/alessandro-benetti-86968a1b8/.
+- 👋 Hi, I’m Alessandro Benetti, a Nuclear Engineer with a strong passion for Data Science
+- 🌱 I’m currently learning Causal Machine Learning!
+- 📫 How to reach me:  https://www.linkedin.com/in/alessandro-benetti-86968a1b8/
 
 <!---
 Benetti-Hub/Benetti-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
