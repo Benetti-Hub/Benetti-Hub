@@ -1,7 +1,7 @@
 ### Welcome to My GitHub Profile! 👋
 
 #### About Me
-My name is Alessandro Benetti, and I am a Data Scientist with a background in Nuclear Engineering
+My name is Alessandro Benetti, and I am a Data Scientist with a strong passion for programming and engineering
 
 #### 📫 Connect With Me
 - **LinkedIn:** [Alessandro Benetti](https://www.linkedin.com/in/alessandro-benetti/)
